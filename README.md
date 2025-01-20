@@ -83,7 +83,8 @@ Contributions are welcome! If you'd like to improve the project, feel free to fo
 
 ### 📬 Contact
 For any questions or suggestions, reach out via:
-- **Email:** ronaldo@example.com
+- **Email:** ronaldosjr07@gmail.com
+
 - **GitHub Issues:** [Open an Issue](https://github.com/yourusername/wheat-disease-detection/issues)
 
 ---
